@@ -1,0 +1,14 @@
+\documentclass[12pt,a4paper,fullpage]{book}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage[pdftex]{graphicx}
+\usepackage[italian]{babel}
+\usepackage[latin1]{inputenc}
+\usepackage{verbatim}
+\usepackage{color}
+
+\author{Author}
+\title{Title}
+
+\begin{document}
+\end{document}

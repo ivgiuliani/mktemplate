@@ -1,0 +1,11 @@
+\documentclass[12pt,a4paper,fullpage]{article}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage[pdftex]{graphicx}
+\usepackage[italian]{babel}
+\usepackage[latin1]{inputenc}
+\usepackage{verbatim}
+\usepackage{color}
+
+\begin{document}
+\end{document}
